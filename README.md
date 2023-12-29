@@ -13,8 +13,9 @@ This is a personal portfolio website showcasing the skills, projects, and contac
 
 ## Images
 
-![image](https://github.com/your-username/your-repository/assets/104495979/5a07972b-c0d6-4a7e-8380-053a13146be5)
-![image](https://github.com/your-username/your-repository/assets/104495979/dbd8564c-8875-4955-82d5-142a2656b70c)
+![image](https://github.com/sarjeetsingh-tech/CVIP-Portfolio/assets/104495979/6d1f7fca-ae59-4b83-9965-fac5eefc51f5)
+![image](https://github.com/sarjeetsingh-tech/CVIP-Portfolio/assets/104495979/a8ecfd26-c2d7-4be0-aa82-12203221d696)
+
 
 
 ## Features
